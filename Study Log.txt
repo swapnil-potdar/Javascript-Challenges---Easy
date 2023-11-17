@@ -1,3 +1,5 @@
 15/11/23 - today I watched Angular Routing videos on Udemy
 
 16/11/23 - Studying Routing in Angular
+
+17/11/23 - Today I learnt FIRST CLASS FUNCTIONS 🔥ft. Anonymous Functions by Namaste Javascript
