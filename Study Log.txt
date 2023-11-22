@@ -3,3 +3,5 @@
 16/11/23 - Studying Routing in Angular
 
 17/11/23 - Today I learnt FIRST CLASS FUNCTIONS 🔥ft. Anonymous Functions by Namaste Javascript
+
+22/11/23 - Continued with Namaste Javascript.
