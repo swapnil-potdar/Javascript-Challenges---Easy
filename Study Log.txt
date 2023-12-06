@@ -5,3 +5,5 @@
 17/11/23 - Today I learnt FIRST CLASS FUNCTIONS 🔥ft. Anonymous Functions by Namaste Javascript
 
 22/11/23 - Continued with Namaste Javascript.
+
+06/12/23 - started learning observables
