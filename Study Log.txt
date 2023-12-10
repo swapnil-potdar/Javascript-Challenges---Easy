@@ -7,3 +7,5 @@
 22/11/23 - Continued with Namaste Javascript.
 
 06/12/23 - started learning observables
+
+09/12/23 - Today I studied Observables
