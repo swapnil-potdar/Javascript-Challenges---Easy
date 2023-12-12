@@ -9,3 +9,5 @@
 06/12/23 - started learning observables
 
 09/12/23 - Today I studied Observables
+
+12/12/23 - Today I watched Angular QnA
