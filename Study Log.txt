@@ -11,3 +11,5 @@
 09/12/23 - Today I studied Observables
 
 12/12/23 - Today I watched Angular QnA
+
+13/12/23 - watched Mongo DB lectures
