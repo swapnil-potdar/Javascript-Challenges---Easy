@@ -17,3 +17,5 @@
 14/12/23 - continued with Mongo DB lectures
 
 21/12/23 - started studying Angular forms
+
+18/01/23 - revised Angular services
