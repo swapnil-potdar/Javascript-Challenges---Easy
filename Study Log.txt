@@ -15,3 +15,9 @@
 13/12/23 - watched Mongo DB lectures
 
 14/12/23 - continued with Mongo DB lectures
+
+21/12/23 - started studying Angular forms
+
+18/01/23 - revised Angular services
+
+23/01/2024 - studied reactive forms
