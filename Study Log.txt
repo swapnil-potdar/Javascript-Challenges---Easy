@@ -27,3 +27,5 @@
 04/02/2024 - brushed java basics
 
 10/02/2024 - creating resume
+
+11/02/2024 - Attended Be10x's AI tools for productivity workshop
