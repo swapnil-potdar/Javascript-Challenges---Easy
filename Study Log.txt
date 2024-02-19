@@ -31,3 +31,5 @@
 11/02/2024 - Attended Be10x's AI tools for productivity workshop
 
 17/02/2024 - Started studying Data structures in Java
+
+19/02/2024 - revised angular QnA
