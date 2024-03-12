@@ -38,4 +38,6 @@
 
 25/02/2024 - brushed up Java DSA
 
-05/03/2024 - Stidying backend with Nodejs
+05/03/2024 - Studying backend with Nodejs
+
+12/03/2024 - Continued with studying Node js
