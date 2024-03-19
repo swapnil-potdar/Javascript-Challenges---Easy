@@ -43,3 +43,5 @@
 12/03/2024 - Continued with studying Node js
 
 14/03/2024 - started revising recipe book project
+
+19/03/2024 - watched Angular QnA
