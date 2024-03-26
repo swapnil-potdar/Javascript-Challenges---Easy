@@ -49,3 +49,5 @@
 23/03/2024 - Explored Angular material
 
 24/03/2024 - continues with angular material
+
+26/03/2024 - planning where to head next with studies
