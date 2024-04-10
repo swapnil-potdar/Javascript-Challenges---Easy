@@ -53,3 +53,5 @@
 26/03/2024 - planning where to head next with studies
 
 05/04/2024 - started revising mysql
+
+10/04/2014 - started studying expressJS
