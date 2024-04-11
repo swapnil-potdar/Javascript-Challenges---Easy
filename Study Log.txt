@@ -21,3 +21,37 @@
 18/01/23 - revised Angular services
 
 23/01/2024 - studied reactive forms
+
+02/02/2024 - tried to fix errors
+
+04/02/2024 - brushed java basics
+
+10/02/2024 - creating resume
+
+11/02/2024 - Attended Be10x's AI tools for productivity workshop
+
+17/02/2024 - Started studying Data structures in Java
+
+19/02/2024 - revised angular QnA
+
+24/02/2024 - Started studying HTTP requests
+
+25/02/2024 - brushed up Java DSA
+
+05/03/2024 - Studying backend with Nodejs
+
+12/03/2024 - Continued with studying Node js
+
+14/03/2024 - started revising recipe book project
+
+19/03/2024 - watched Angular QnA
+
+23/03/2024 - Explored Angular material
+
+24/03/2024 - continues with angular material
+
+26/03/2024 - planning where to head next with studies
+
+05/04/2024 - started revising mysql
+
+10/04/2014 - started studying expressJS
