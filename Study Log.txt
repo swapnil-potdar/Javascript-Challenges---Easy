@@ -56,4 +56,6 @@
 
 10/04/2024 - started studying expressJS
 
+18/04/2024 - installed mongoose
+
 17/04/2024 - continued with ExpressJs
