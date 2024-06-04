@@ -69,3 +69,5 @@
 17/05/2024 - continued with python
 
 03/06/2024 - started revising angular
+
+04/06/2024 - continued with angular revision
